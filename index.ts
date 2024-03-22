@@ -1,2 +1,3 @@
 let great = "Hello";
-console.log(great);
+let myName = "waqarahmed"
+console.log(great + " " + myName);
